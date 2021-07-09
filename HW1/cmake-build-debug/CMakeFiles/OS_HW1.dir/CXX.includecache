@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/OS_HW1/8080emu.cpp
+8080emuCPP.h
+C:/Users/Administrator/Desktop/OS_HW1/8080emuCPP.h
+
+C:/Users/Administrator/Desktop/OS_HW1/8080emuCPP.h
+cstdio
+-
+cstring
+-
+cstdlib
+-
+inttypes.h
+-
+
+C:/Users/Administrator/Desktop/OS_HW1/gtuos.cpp
+iostream
+-
+8080emuCPP.h
+C:/Users/Administrator/Desktop/OS_HW1/8080emuCPP.h
+gtuos.h
+C:/Users/Administrator/Desktop/OS_HW1/gtuos.h
+
+C:/Users/Administrator/Desktop/OS_HW1/gtuos.h
+8080emuCPP.h
+C:/Users/Administrator/Desktop/OS_HW1/8080emuCPP.h
+
+C:/Users/Administrator/Desktop/OS_HW1/main.cpp
+iostream
+-
+8080emuCPP.h
+C:/Users/Administrator/Desktop/OS_HW1/8080emuCPP.h
+gtuos.h
+C:/Users/Administrator/Desktop/OS_HW1/gtuos.h
+
