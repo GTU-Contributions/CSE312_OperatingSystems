@@ -3,7 +3,7 @@ Gebze Technical University
 
 Projects - Spring 2017
 
-Instructor: Yusuf Sinan Akgul
+Instructor: Prof. Dr. Yusuf Sinan Akgul
 
 Course Book: Modern Operating Systems 4th Ed. By Tanenbaum
 
